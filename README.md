@@ -47,3 +47,5 @@ The Linktree Clone comes with the following distinct features:
 
 ### LICENSE
 [MIT](LICENSE)
+
+_Feel free to contribute as well :)_
