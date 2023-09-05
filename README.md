@@ -1,51 +1,64 @@
-# Linktree Clone - React + TypeScript + Vite
+# HRS8.github.io
 
-Welcome to the Linktree Clone project! This project is built using React, TypeScript, and Vite, offering a simple and customizable way to create your own linktree-style webpage. Whether you want to showcase your favorite links or social media profiles, this project has got you covered. Plus, it's designed to be beginner-friendly.
+Welcomne to HRS8 the open source alternative for showing your social media links.
 
-## Getting Started
+HRS8 believes in the amazing power of open source and the community. We are developing an amazing and thriling project, where increible ideas can come to life.
+
+Join us and be part of this great community, where you can learn and share your knowledge with others.
+
+![HRS8](./src/assets/webLook.png)
+
+## Our Tech Stack 🛠️
+
+- [React](https://reactjs.org/): Powerful JavaScript library for building user interfaces.
+- [TypeScript](https://www.typescriptlang.org/): The strong typed Javascript.
+- [Vite](https://vitejs.dev/): Next Generation Frontend Tooling.
+
+## Contributions 🤝
+
+Feel free to contribute!! If you have an idea, want to add a new feature, fix a bug or improve the code, please open a [issue](https://github.com/HRS8/HRS8.github.io/issues/new) or send a pull request. Make sure to always follow the [contribution guidelines](./CONTRIBUTING.md) when submitting new code.
+
+> **Note**: If you are new to open source contributions, you can refer to [this](https://opensource.guide/how-to-contribute/) guide by GitHub.
+
+## Getting Started 🚀
 
 Follow these steps to get started with the Linktree Clone:
 
-1. Clone the repository:
+1. Fork the repository
+
+2. Clone the repository:
+
 ```bash
 git clone https://github.com/HRS8/HRS8.github.io.git
 ```
 
-2. Change into the project directory:
+3. Change into the poject directory:
+
 ```bash
 cd HRS8.github.io
 ```
 
-3. Install project dependencies:
+4. Install project dependencies:
+
 ```bash
 npm install
 ```
 
-4. Start the development server:
+5. Install project dependencies:
+
 ```bash
 npm run dev
 ```
 
-## Publishing Your Linktree
+## Distinct Features 🌟
 
-Once you've customized your Linktree Clone to your satisfaction, it's time to publish it:
+It comes with some amazing features like:
 
-1. Build the project:
-```bash
-npm run build
-```
+1. `Song play/pause`: You can include a song that visitors can play and pause, adding a unique touch to your linktree page.
+2. `Dark/Light Themes`: Users can switch between dark and light themes, enhancing the visual appeal and user experience.
+3. `Noob Friendly`: This project is designed to be beginner-friendly, making it accessible to developers of all skills levels.
 
-## Distinct Features
+## License 📝
 
-The Linktree Clone comes with the following distinct features:
-
-1. `Song Play/Pause: ` You can include a song that visitors can play and pause, adding a unique touch to your linktree page.
-
-2. `Dark/Light Themes: ` Users can switch between dark and light themes, enhancing the visual appeal and user experience.
-
-3. `Noob Friendly: ` This project is designed to be beginner-friendly, making it accessible to developers of all skills levels.
-
-### LICENSE
 [MIT](LICENSE)
 
-_Feel free to contribute as well :)_
