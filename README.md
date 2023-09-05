@@ -61,3 +61,4 @@ It comes with some amazing features like:
 ## License 📝
 
 [MIT](LICENSE)
+
