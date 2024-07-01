@@ -7,7 +7,7 @@ const items = [
     title: 'Website',
     subtitle: 'Look at my work!',
     type: CHANNEL_TYPES.WEBSITE,
-    link: 'https://hrs8.me/Portfolio/', //your personal website or portfolio  link
+    link: 'https://hrs8.tech/Portfolio/', //your personal website or portfolio  link
   },
   {
     title: 'GitHub',
