@@ -21,5 +21,5 @@ export const CHANNEL_TYPE_VS_COVER_IMAGE = {
   [CHANNEL_TYPES.WHATSAPP]: whatsapp,
   [CHANNEL_TYPES.TELEGRAM]: telegram,
   [CHANNEL_TYPES.TWITTER]: twitter,
-  [CHANNEL_TYPES.BLOG]: Blog,
+  [CHANNEL_TYPES.BLOG]: blog,
 };
