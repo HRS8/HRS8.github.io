@@ -28,6 +28,12 @@ const items = [
     link: 'https://www.linkedin.com/in/harshithvallabhaneni/', // linkedin
   },
   {
+    title: 'Blog',
+    subtitle: 'I believe in small wins!',
+    type: CHANNEL_TYPES.Blog,
+    link: 'https://blog.hrs8.tech/Portfolio/', //your personal website or portfolio  link
+  },
+  {
     title: 'Telegram',
     subtitle: '#AOSP Creeps😎',
     type: CHANNEL_TYPES.TELEGRAM,
