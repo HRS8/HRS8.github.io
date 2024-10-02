@@ -7,6 +7,7 @@ import telegram from '../assets/telegram.png';
 import twitter from '../assets/twitter.png';
 import coursera from '../assets/coursera.png';
 import whatsapp from '../assets/Whatsapp.jpg';
+import blog from '../assets/Blog.jpg';
 
 import { CHANNEL_TYPES } from './ts/constants';
 
@@ -20,4 +21,5 @@ export const CHANNEL_TYPE_VS_COVER_IMAGE = {
   [CHANNEL_TYPES.WHATSAPP]: whatsapp,
   [CHANNEL_TYPES.TELEGRAM]: telegram,
   [CHANNEL_TYPES.TWITTER]: twitter,
+  [CHANNEL_TYPES.BLOG]: Blog,
 };
