@@ -31,7 +31,7 @@ const items = [
     title: 'Blog',
     subtitle: 'I believe in small wins!',
     type: CHANNEL_TYPES.BLOG,
-    link: 'https://blog.hrs8.tech/Portfolio/', //your personal website or portfolio  link
+    link: 'https://blog.hrs8.tech', //your personal website or portfolio  link
   },
   {
     title: 'Telegram',
